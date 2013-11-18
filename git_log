@@ -3,5 +3,5 @@ while(true)
 do
   clear
   git log --oneline --abbrev-commit --branches=* --graph --decorate --color
-  sleep 5
+  sleep 1
 done
