@@ -1,0 +1,7 @@
+#!/bin/bash
+while(true)
+do
+  curl -L http://simontaranto.com
+  printf "attempted"
+  sleep 5
+done
